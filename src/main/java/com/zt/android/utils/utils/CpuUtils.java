@@ -8,8 +8,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by Tony.Zhang at 2017/11/16.
- * Email: tonyzhang@tcl.com
+ * Created by ZT at 2017/11/16.
+ *
  */
 
 public class CpuUtils {

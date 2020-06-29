@@ -4,8 +4,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.InputStream;
 
 /**
- * Created by Tony.Zhang at 2017/11/17.
- * Email: tonyzhang@tcl.com
+ * Created by ZT at 2017/11/17.
  */
 
 public class StreamUtils {

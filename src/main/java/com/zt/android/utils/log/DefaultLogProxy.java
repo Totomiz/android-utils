@@ -3,10 +3,7 @@ package com.zt.android.utils.log;
 import android.util.Log;
 
 /**
- * Created on 2017/12/28.
- * Email: tonyzhang@tcl.com
- *
- * @author Tony zhang
+ * Created by ZT on 2017/12/28.
  */
 
 /*package*/class DefaultLogProxy implements ILogProxy {

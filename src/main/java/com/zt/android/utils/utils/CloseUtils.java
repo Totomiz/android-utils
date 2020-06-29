@@ -5,7 +5,7 @@ import java.io.IOException;
 
 /**
  * Created by Tony.Zhang at 2017/11/16.
- * Email: tonyzhang@tcl.com
+ *
  */
 
 public class CloseUtils {

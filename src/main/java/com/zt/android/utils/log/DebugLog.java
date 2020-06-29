@@ -1,8 +1,7 @@
 package com.zt.android.utils.log;
 
 /**
- * Created on 2017/12/28.
- * Email: tonyzhang@tcl.com
+ * Created by ZT on 2017/12/28.
  * <p>
  * Generally, use the DebugLog.v() DebugLog.d() DebugLog.i() DebugLog.w() and DebugLog.e()
  * methods.
@@ -10,7 +9,6 @@ package com.zt.android.utils.log;
  * DebugLog.rd() DebugLog.ri() DebugLog.rw() and DebugLog.re() methods.
  * </p>
  *
- * @author Tony zhang
  */
 
 public class DebugLog {

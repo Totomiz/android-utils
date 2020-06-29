@@ -15,9 +15,6 @@ import java.util.List;
 
 /**
  * Created on 2018/2/1.
- * Email: tonyzhang@tcl.com
- *
- * @author Tony zhang
  */
 
 public class Utils {

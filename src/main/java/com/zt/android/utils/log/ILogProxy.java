@@ -1,10 +1,7 @@
 package com.zt.android.utils.log;
 
 /**
- * Created on 2017/12/28.
- * Email: tonyzhang@tcl.com
- *
- * @author Tony zhang
+ * Created by ZT on 2017/12/28.
  */
 
 public interface ILogProxy {
